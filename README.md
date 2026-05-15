@@ -5,6 +5,13 @@ This project implements **Decision Tree and Random Forest** classifiers from scr
 
 ---
 
+## Repository Structure
+- `code/` → implementation of models and utilities
+- `report.pdf` → full technical and theoretical analysis of the project
+- `README.md` → project overview and documentation
+
+---
+
 ## Key Features
 - Built Decision Tree and Random Forest models from scratch in Python (without using libraries such as scikit-learn)  
 - Implemented data preprocessing, feature handling, and stratified train-test split  
